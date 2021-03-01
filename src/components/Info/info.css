@@ -1,0 +1,17 @@
+.player-info{
+    display: inline-block;
+    border: 1px solid gray;
+    height: 500px;
+    width: 270px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.player-info img{
+    width: 200px;
+    height: 200px;
+}
+.info{
+    text-align: center;
+    margin-top: 5px;
+}
